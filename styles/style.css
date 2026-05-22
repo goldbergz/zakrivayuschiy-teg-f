@@ -93,6 +93,41 @@
   border-bottom: 2px solid #000;
 }
 
+.card__image_start {
+  filter: brightness(110%);
+}
+
+.card__image_focus {
+  filter: grayscale(0.8);
+}
+
+.card__image_doubt {
+  filter: contrast(140%);
+}
+
+.card__image_overthink {
+  filter: saturate(200%);
+}
+
+.card__image_support {
+  filter: sepia(0.7);
+}
+
+.card__image_adapt {
+  filter: hue-rotate(30deg);
+}
+
+.card__image_burnout {
+  filter: blur(2px);
+}
+
+.card__image_growth {
+  filter:
+    contrast(120%)
+    brightness(115%)
+    saturate(140%);
+}
+
 .card__label {
   position: absolute;
   top: 25px;
