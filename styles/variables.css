@@ -32,6 +32,6 @@
     --content-width: clamp(23.4375rem, 100%, 43.75rem);
     --header-logo-size: clamp(3.0625rem, 2.7102rem + 1.5023vw, 4.0625rem);
     --header-title-size: clamp(0.875rem, 0.6778rem + 0.8404vw, 1.4375rem);
-    --header-padding-block: clamp(7.625rem, 7.4489rem + 0.7512vw, 8.125rem);
+    --header-padding-block: clamp(7.5rem, 7.3239rem + 0.7512vw, 8rem);
     --header-padding-inline: clamp(1rem, -10.1761rem + 47.6995vw, 7.65625rem);
 }
