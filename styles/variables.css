@@ -26,6 +26,9 @@
     --button-text-color: #fff;
     --accent-color: #000;
 
+    --contour-color: #000;
+    --animation-fill-color: #ff0000;
+
     --content-width: clamp(23.4375rem, 100%, 43.75rem);
     --header-logo-size: clamp(3.0625rem, 2.7102rem + 1.5023vw, 4.0625rem);
     --header-title-size: clamp(0.875rem, 0.6778rem + 0.8404vw, 1.4375rem);
